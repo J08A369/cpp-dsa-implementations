@@ -17,7 +17,6 @@ public:
         rollNo=r;
         cgpa=c;
     }
-
     void display(){
         cout<<"Name: "<<name<<endl;
         cout<<"Roll: "<<rollNo<<endl;
